@@ -1,0 +1,14 @@
+[
+  { "name": "Huevos", "supermarket": "Mercadona", "price": 1.89 },
+  { "name": "Huevos", "supermarket": "Lidl", "price": 1.79 },
+  { "name": "Huevos", "supermarket": "Carrefour", "price": 2.10 },
+  { "name": "Leche entera", "supermarket": "Mercadona", "price": 0.95 },
+  { "name": "Leche entera", "supermarket": "Alcampo", "price": 0.89 },
+  { "name": "Leche entera", "supermarket": "Lidl", "price": 0.92 },
+  { "name": "Pan de molde", "supermarket": "Carrefour", "price": 1.55 },
+  { "name": "Pan de molde", "supermarket": "Día", "price": 1.30 },
+  { "name": "Pan de molde", "supermarket": "Lidl", "price": 1.40 },
+  { "name": "Arroz", "supermarket": "Alcampo", "price": 0.95 },
+  { "name": "Arroz", "supermarket": "Mercadona", "price": 0.99 },
+  { "name": "Arroz", "supermarket": "Lidl", "price": 1.05 }
+]
